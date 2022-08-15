@@ -3,8 +3,8 @@ A passionate self-taught full stack web developer and open-source 💞️ enthus
 
 👀 I’m interested in 
 
- -  Programming Languages<br>
-    ![image](https://user-images.githubusercontent.com/111303902/184689667-69c1d6a2-cadd-4fce-afba-aa62b2696067.png)
+    #### Programming Languages<br>
+    ![image](https://user-images.githubusercontent.com/111303902/184690320-46080f71-71f5-4d89-a41e-3ef1f1448f15.png)
 
 
 
