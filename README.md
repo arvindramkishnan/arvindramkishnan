@@ -19,7 +19,7 @@ A passionate self-taught full stack web developer and open-source 💞️ enthus
 
 &emsp;Technologies ...
 
-&emsp;Microservice, Docker
+&emsp;![image](https://user-images.githubusercontent.com/111303902/184698268-95445605-5524-430c-bcce-ad3974383356.png)
 
 <br>
 
