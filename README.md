@@ -6,6 +6,10 @@ A passionate self-taught full stack web developer and open-source 💞️ enthus
 
 ![image](https://user-images.githubusercontent.com/111303902/184687395-b8a9aec2-949d-4c83-8832-5c108c7946df.png)
 
+![image](https://user-images.githubusercontent.com/111303902/184688109-ceb47aa5-524c-4f61-8bd9-723b2a3343be.png)
+
+![image](https://user-images.githubusercontent.com/111303902/184688331-f47accc1-5d2a-49cf-a5d3-ec3ba4aaae92.png)
+
 
 
 
