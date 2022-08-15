@@ -1,6 +1,8 @@
 <b>Hi 👋, I’m Aravind Ramakrishnan</b><br>
 A passionate self-taught full stack web developer and open-source 💞️ enthusiast from India.
 
+<br>
+
 👀 I’m interested in 
 
 &emsp;Programming Languages ...
@@ -19,6 +21,7 @@ A passionate self-taught full stack web developer and open-source 💞️ enthus
 
 &emsp;Microservice, Docker
 
+<br>
 
 📫 How to reach me aravind.work.contact@gmail.com
 
