@@ -1,5 +1,5 @@
 <b>Hi 👋</b>, I’m Aravind<br>
-A passionate self-taught full stack web developer and open-source 💞️ enthusiast.
+A passionate self-taught full stack web developer and open-source 💞️ enthusiast from India.
 
 👀 I’m interested in 
 
@@ -15,14 +15,13 @@ A passionate self-taught full stack web developer and open-source 💞️ enthus
 
 &emsp;![image](https://user-images.githubusercontent.com/111303902/184695833-36776ecb-a548-4720-a975-5589a38abe14.png)
 
+&emsp;Technologies ...
+
+&emsp;Microservice, Docker
 
 
+📫 How to reach me aravind.work.contact@gmail.com
 
--  Hi,  @arvindramkishnan
--  ...
-- 🌱 I’m currently learning ...
--  I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 arvindramkishnan/arvindramkishnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
