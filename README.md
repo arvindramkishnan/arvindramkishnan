@@ -1,4 +1,4 @@
-<b>Hi 👋</b>, I’m Aravind<br>
+<b>Hi 👋, I’m Aravind Ramakrishnan</b><br>
 A passionate self-taught full stack web developer and open-source 💞️ enthusiast from India.
 
 👀 I’m interested in 
