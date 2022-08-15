@@ -2,25 +2,27 @@
 A passionate self-taught full stack web developer and open-source 💞️ enthusiast from India.
 
 <br>
+<br>
 
 👀 I’m interested in 
 
-&emsp;Programming Languages ...
+&emsp;&emsp;Programming Languages ...
 
-&emsp;![image](https://user-images.githubusercontent.com/111303902/184696681-d272d279-e101-44eb-b034-ad4681470aad.png)
+&emsp;&emsp;&emsp;![image](https://user-images.githubusercontent.com/111303902/184696681-d272d279-e101-44eb-b034-ad4681470aad.png)
 
-&emsp;Tools ...
+&emsp;&emsp;Tools ...
 
-&emsp;![image](https://user-images.githubusercontent.com/111303902/184692206-3219613d-9bfe-404f-8fe6-72e2d4733ec2.png)
+&emsp;&emsp;&emsp;![image](https://user-images.githubusercontent.com/111303902/184692206-3219613d-9bfe-404f-8fe6-72e2d4733ec2.png)
 
-&emsp;Environment ...
+&emsp;&emsp;Environment ...
 
-&emsp;![image](https://user-images.githubusercontent.com/111303902/184695833-36776ecb-a548-4720-a975-5589a38abe14.png)
+&emsp;&emsp;&emsp;![image](https://user-images.githubusercontent.com/111303902/184695833-36776ecb-a548-4720-a975-5589a38abe14.png)
 
-&emsp;Technologies ...
+&emsp;&emsp;Technologies ...
 
-&emsp;![image](https://user-images.githubusercontent.com/111303902/184698268-95445605-5524-430c-bcce-ad3974383356.png)
+&emsp;&emsp;&emsp;![image](https://user-images.githubusercontent.com/111303902/184698268-95445605-5524-430c-bcce-ad3974383356.png)
 
+<br>
 <br>
 
 📫 How to reach me aravind.work.contact@gmail.com
