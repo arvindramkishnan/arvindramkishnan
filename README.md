@@ -5,8 +5,7 @@ A passionate self-taught full stack web developer and open-source 💞️ enthus
 
 &emsp;Programming Languages ...
 
-&emsp;![image](https://user-images.githubusercontent.com/111303902/184690534-b25a96c6-740a-47d2-bb0b-a5753d414c66.png)
-
+&emsp;![image](https://user-images.githubusercontent.com/111303902/184694381-1842b457-dd18-47cf-8fbb-9dd5938d3e82.png)
 
 &emsp;Tools ...
 
